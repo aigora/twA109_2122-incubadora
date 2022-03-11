@@ -1,4 +1,4 @@
-# [Título del trabajo]
+# INCUBADORA
 
 Incubadora aislada programable capaz de controlar la temperatura y la humedad.
 
